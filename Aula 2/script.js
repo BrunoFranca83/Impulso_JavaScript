@@ -1,5 +1,3 @@
-//tipos primitivos
-
 //Booleanos
 var vOuF = false;
 console.log(typeof(vOuF));
@@ -18,4 +16,18 @@ console.log(typeof(funcao));
 
 //como declarar
 var variavel = 'Bruno';
-variavel = 'França'
+variavel = 'França';
+console.log(variavel);
+
+let variavel2 = 'Heloisa';
+console.log(variavel2);
+
+var escopoGlobal = 'Global';
+console.log(escopoGlobal);
+
+function escopoLocal(){
+    let escopolocalInterno = 'Local';
+    console.log(escopolocalInterno);
+}
+
+escopoLocal();
