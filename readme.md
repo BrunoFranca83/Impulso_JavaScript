@@ -1,9 +1,11 @@
-2º Bootcamp - Impulso JavaScript
+2Âº Bootcamp - Impulso JavaScript
 
-Aqui é o objetivo é aprender JavaScript, com todas as dúvidas tiradas.
+Aqui Ã© o objetivo Ã© aprender JavaScript, com todas as dÃºvidas tiradas.
 
-Foco, Não desista jamais.
+Foco, NÃ£o desista jamais.
 
 Que Deus nos ajude!
 
-Bruno França
+Bruno FranÃ§a
+
+teste
