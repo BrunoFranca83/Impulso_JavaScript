@@ -43,3 +43,5 @@ console.log(novoArray);*/
 
 let object = {string: 'string', number: 1, boolean: true, array: ["array"], objectInterno: 'objeto interno'};
 console.log(object);
+
+isso é só um teste
