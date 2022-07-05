@@ -7,5 +7,3 @@ Foco, Não desista jamais.
 Que Deus nos ajude!
 
 Bruno França
-
-teste

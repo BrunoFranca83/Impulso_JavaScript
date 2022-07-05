@@ -42,6 +42,13 @@ let novoArray = array.slice(0, 3);
 console.log(novoArray);*/
 
 let object = {string: 'string', number: 1, boolean: true, array: ["array"], objectInterno: 'objeto interno'};
-console.log(object);
+console.log('objecto interno');
 
-isso é só um teste
+var string = object.string;
+console.log(string);
+
+var arrayInterno = object.array
+console.log(arrayInterno);
+
+var {string, boolean, objectInterno} = object;
+console.log(string. boolean, objectInterno);
