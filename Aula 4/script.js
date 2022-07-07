@@ -42,15 +42,40 @@ switch (placar) {
         console.log('Empate')
 }
 
-//Parei em Estruturas Condicionais em 09:36
+//Estrotoras de repetição
 
+let array = ['valor1', 'valor2', 'valor3', 'valor4', 'valor5']
 
+let object = {propriedade1: 'valor1', propriedade2: 'valor2', propriedade3: 'valor3'}
 
+//For: executa uma ação até que ela seja falsa
 
+for (let indice = 0; indice < array.length; indice++) {
+    console.log(indice);
+}
 
+//For / In: Funciona como uma repetição a partir de uma propriedade
+for (let i in array){{
+    console.log(i);
+}}
 
+//Com Object
+for (i of object.propriedades1){
+    console.log(i);
+}
 
+//Executa uma instrução "enquanto" determinada condicão for verdadeira, a verificação é feita antes da execução
+var a = 0;
+while (a< 10){
+    a++;
+    console.log(a);
+}
 
+//Executa uma instrução "Até que" determinada condição seja falsa a verificação é feita depois da execução
+do {
+    a++;
+    console.log (a);
+}while(a < 10)
 
 
 
