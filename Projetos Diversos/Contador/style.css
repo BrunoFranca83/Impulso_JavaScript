@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.counterStyle{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 15px;
+}
+
+.buttonsStyle{
+    border-radius: 50%;
+    border-color: brown;
+    
+}
